@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data files - DO NOT PUSH
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Raw datasets (too large for GitHub)
+plantvillage_raw/
+raw_dataset/
+
+# Image data folders (too large - download separately)
+data/archive*.zip
+data/Early_Blight/
+data/Healthy/
+data/Late_Blight/
+
+# Model weights (large files - use releases or cloud storage)
+# Uncomment below if you don't want to push model files
+# models/*.pt
+# models/*.pth
+# models/*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
