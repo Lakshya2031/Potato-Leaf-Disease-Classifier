@@ -14,7 +14,7 @@ State-of-the-art potato leaf disease classification achieving **97-99% accuracy*
 ## ✨ New Features (Perfect Model Edition)
 
 ### Advanced Training
-- 🔥 **Multiple Architectures**: EfficientNet + Attention, ConvNeXt, Vision Transformer, CNN-Transformer Hybrid
+- 🔥 **Multiple Architectures**: EfficientNet + Attention, ConvNeXt, Vision Transformer, CNN-Transformer Hybrid 
 - 🎭 **Attention Mechanisms**: CBAM, SE-Net, ECA for enhanced features
 - 📊 **Advanced Augmentations**: MixUp, CutMix, RandAugment, Cutout
 - 📉 **Smart Loss Functions**: Focal Loss, Label Smoothing, Poly Loss
@@ -34,7 +34,7 @@ State-of-the-art potato leaf disease classification achieving **97-99% accuracy*
 ```
 Potato_leaf_disease/
 ├── data/                      # Dataset (class subfolders)
-│   ├── Early_Blight/
+│   ├── Early_Blights/
 │   ├── Late_Blight/
 │   └── Healthy/
 ├── models/                    # Saved models & results
