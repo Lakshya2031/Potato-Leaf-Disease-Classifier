@@ -42,7 +42,7 @@ data/Late_Blight/
 # Uncomment below if you don't want to push model files
 # models/*.pt
 # models/*.pth
-# models/*.h5
+
 
 # OS files
 .DS_Store
